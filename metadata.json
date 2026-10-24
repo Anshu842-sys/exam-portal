@@ -1,0 +1,6 @@
+{
+  "name": "Exam Cell Management System",
+  "description": "Comprehensive university examination cell portal for managing examinations, students, faculty, timetables, marks processing, and academic analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
